@@ -1,0 +1,1 @@
+5Cb`<?php exit; ?>a:1:{s:7:"content";a:3:{s:26:"_astra_sites_imported_post";a:1:{i:0;s:1:"1";}s:29:"_astra_sites_enable_for_batch";a:1:{i:0;s:1:"1";}s:9:"wcf-steps";a:1:{i:0;s:173:"a:2:{i:0;a:3:{s:2:"id";i:13;s:5:"title";s:13:"Checkout Page";s:4:"type";s:8:"checkout";}i:1;a:3:{s:2:"id";i:14;s:5:"title";s:14:"Thank You Page";s:4:"type";s:8:"thankyou";}}";}}}
